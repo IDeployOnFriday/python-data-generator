@@ -1,0 +1,145 @@
+timestamp,location,Temperature,light
+1764547210.000,North Pole Regency,1,0
+1764549010.000,North Pole Regency,1,0
+1764550810.000,North Pole Regency,0,0
+1764552610.000,North Pole Regency,1,0
+1764554410.000,North Pole Regency,1,0
+1764556210.000,North Pole Regency,1,0
+1764558010.000,North Pole Regency,1,0
+1764559810.000,North Pole Regency,1,0
+1764561610.000,North Pole Regency,0,0
+1764563410.000,North Pole Regency,9,7
+1764565210.000,North Pole Regency,9,7
+1764567010.000,North Pole Regency,9,7
+1764568810.000,North Pole Regency,1,0
+1764570610.000,North Pole Regency,1,0
+1764572410.000,North Pole Regency,1,0
+1764574210.000,North Pole Regency,1,0
+1764576010.000,North Pole Regency,1,0
+1764577810.000,North Pole Regency,1,0
+1764579610.000,North Pole Regency,1,0
+1764581410.000,North Pole Regency,0,0
+1764583210.000,North Pole Regency,1,0
+1764585010.000,North Pole Regency,1,0
+1764586810.000,North Pole Regency,1,0
+1764588610.000,North Pole Regency,1,0
+1764590410.000,North Pole Regency,0,9
+1764592210.000,North Pole Regency,1,9
+1764594010.000,North Pole Regency,1,0
+1764595810.000,North Pole Regency,1,0
+1764597610.000,North Pole Regency,1,0
+1764599410.000,North Pole Regency,1,0
+1764601210.000,North Pole Regency,1,0
+1764603010.000,North Pole Regency,1,0
+1764604810.000,North Pole Regency,0,0
+1764606610.000,North Pole Regency,0,0
+1764608410.000,North Pole Regency,0,0
+1764610210.000,North Pole Regency,1,0
+1764612010.000,North Pole Regency,1,0
+1764613810.000,North Pole Regency,1,0
+1764615610.000,North Pole Regency,1,0
+1764617410.000,North Pole Regency,0,0
+1764619210.000,North Pole Regency,1,0
+1764621010.000,North Pole Regency,1,0
+1764622810.000,North Pole Regency,1,0
+1764624610.000,North Pole Regency,0,0
+1764626410.000,North Pole Regency,0,0
+1764628210.000,North Pole Regency,0,0
+1764630010.000,North Pole Regency,9,0
+1764631810.000,North Pole Regency,9,0
+1764547210.000,The Reindeers Rest Pub,1,0
+1764549050.000,The Reindeers Rest Pub,1,0
+1764550850.000,The Reindeers Rest Pub,1,0
+1764552650.000,The Reindeers Rest Pub,1,0
+1764554450.000,The Reindeers Rest Pub,1,0
+1764556250.000,The Reindeers Rest Pub,0,0
+1764558050.000,The Reindeers Rest Pub,1,0
+1764559850.000,The Reindeers Rest Pub,0,0
+1764561650.000,The Reindeers Rest Pub,1,0
+1764563450.000,The Reindeers Rest Pub,0,0
+1764565250.000,The Reindeers Rest Pub,1,0
+1764567050.000,The Reindeers Rest Pub,1,0
+1764568850.000,The Reindeers Rest Pub,0,0
+1764570650.000,The Reindeers Rest Pub,1,0
+1764572450.000,The Reindeers Rest Pub,1,0
+1764574250.000,The Reindeers Rest Pub,0,0
+1764576050.000,The Reindeers Rest Pub,1,0
+1764577850.000,The Reindeers Rest Pub,1,0
+1764579650.000,The Reindeers Rest Pub,1,0
+1764581450.000,The Reindeers Rest Pub,0,1
+1764583250.000,The Reindeers Rest Pub,1,0
+1764585050.000,The Reindeers Rest Pub,1,0
+1764586850.000,The Reindeers Rest Pub,0,0
+1764588650.000,The Reindeers Rest Pub,5,1
+1764590450.000,The Reindeers Rest Pub,6,9
+1764592250.000,The Reindeers Rest Pub,3,9
+1764594050.000,The Reindeers Rest Pub,1,0
+1764595850.000,The Reindeers Rest Pub,1,0
+1764597650.000,The Reindeers Rest Pub,1,0
+1764599450.000,The Reindeers Rest Pub,0,0
+1764601250.000,The Reindeers Rest Pub,1,1
+1764603050.000,The Reindeers Rest Pub,1,0
+1764604850.000,The Reindeers Rest Pub,1,0
+1764606650.000,The Reindeers Rest Pub,1,0
+1764608450.000,The Reindeers Rest Pub,5,7
+1764610250.000,The Reindeers Rest Pub,5,8
+1764612050.000,The Reindeers Rest Pub,8,7
+1764613850.000,The Reindeers Rest Pub,8,8
+1764615650.000,The Reindeers Rest Pub,9,7
+1764617450.000,The Reindeers Rest Pub,10,8
+1764619250.000,The Reindeers Rest Pub,9,7
+1764621050.000,The Reindeers Rest Pub,10,8
+1764622850.000,The Reindeers Rest Pub,9,7
+1764624650.000,The Reindeers Rest Pub,10,8
+1764626450.000,The Reindeers Rest Pub,9,0
+1764628250.000,The Reindeers Rest Pub,8,0
+1764630050.000,The Reindeers Rest Pub,9,0
+1764631850.000,The Reindeers Rest Pub,4,0
+1764547200.000,Santa`s Workshop,1,0
+1764549000.000,Santa`s Workshop,0,0
+1764550800.000,Santa`s Workshop,1,0
+1764552600.000,Santa`s Workshop,0,0
+1764554400.000,Santa`s Workshop,0,0
+1764556200.000,Santa`s Workshop,1,0
+1764558000.000,Santa`s Workshop,2,0
+1764559800.000,Santa`s Workshop,0,0
+1764561600.000,Santa`s Workshop,1,0
+1764563400.000,Santa`s Workshop,2,0
+1764565200.000,Santa`s Workshop,1,0
+1764567000.000,Santa`s Workshop,1,0
+1764568800.000,Santa`s Workshop,7,7
+1764570600.000,Santa`s Workshop,8,7
+1764572400.000,Santa`s Workshop,7,7
+1764574200.000,Santa`s Workshop,9,7
+1764576000.000,Santa`s Workshop,7,7
+1764577800.000,Santa`s Workshop,8,7
+1764579600.000,Santa`s Workshop,7,7
+1764581400.000,Santa`s Workshop,9,7
+1764583200.000,Santa`s Workshop,7,7
+1764585000.000,Santa`s Workshop,8,7
+1764586800.000,Santa`s Workshop,9,7
+1764588600.000,Santa`s Workshop,7,7
+1764590400.000,Santa`s Workshop,7,7
+1764592200.000,Santa`s Workshop,7,7
+1764594000.000,Santa`s Workshop,7,7
+1764595800.000,Santa`s Workshop,7,7
+1764597600.000,Santa`s Workshop,7,7
+1764599400.000,Santa`s Workshop,7,7
+1764601200.000,Santa`s Workshop,7,7
+1764603000.000,Santa`s Workshop,7,7
+1764604800.000,Santa`s Workshop,7,7
+1764606600.000,Santa`s Workshop,7,7
+1764608400.000,Santa`s Workshop,2,0
+1764610200.000,Santa`s Workshop,0,0
+1764612000.000,Santa`s Workshop,0,0
+1764613800.000,Santa`s Workshop,2,0
+1764615600.000,Santa`s Workshop,1,0
+1764617400.000,Santa`s Workshop,1,0
+1764619200.000,Santa`s Workshop,0,0
+1764621000.000,Santa`s Workshop,1,0
+1764622800.000,Santa`s Workshop,2,0
+1764624600.000,Santa`s Workshop,0,0
+1764626400.000,Santa`s Workshop,1,0
+1764628200.000,Santa`s Workshop,2,0
+1764630000.000,Santa`s Workshop,0,0
+1764631800.000,Santa`s Workshop,1,0
